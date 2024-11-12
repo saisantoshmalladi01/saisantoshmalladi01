@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sai Santosh Malladi, a Software Developer with 2+ years of experience.</h2>
+<h2 align="left">Hi  👋! My name is Sai Santosh Malladi, a Software Developer with 2+ years of experience.</h2>
 
 ###
 
